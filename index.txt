@@ -4,7 +4,7 @@
 		<title>My first web page</title>
 		
 </head>
-	<link href="myfirstpage.html"
+	<link href="myfirstpage.html" rel="stylesheet"
 <body>
 	This is my first web page
 </body>
