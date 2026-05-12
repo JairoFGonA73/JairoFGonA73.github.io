@@ -1,0 +1,37 @@
+/* Full page background */
+body {
+    background-color: #3fee73;
+    background-image: url('images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Default text color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Comic Sans MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Link colors */
+a {
+    color: #ffffff; /* Link color */
+    text-decoration: none;
+}
+
+/* Changes text color and adds underline on mouse hover */
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* Heading styles */
+h1 {
+    color: #ffffff; /* Heading color */
+    font-size: 36px;
+    margin: 24px 0 8px;
+}
+h2 {
+    color: #ffffff; /* Subheading color */
+    font-size: 28px;
+    margin: 16px 0 8px;
+}
